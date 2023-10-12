@@ -1,0 +1,8 @@
+{
+    "locales":{
+        "en":"Eng",
+        "ru":"Rus",
+        "ua":"Ukr"
+    },
+    "order": "text"
+}
